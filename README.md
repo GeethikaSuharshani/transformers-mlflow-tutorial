@@ -65,6 +65,7 @@ transformers-mlflow-nlp/
 ├── Task_3_Text_Generation/
 │
 └── README.md
+```
 
 ---
 
@@ -90,5 +91,6 @@ transformers-mlflow-nlp/
 
 - Jupyter Notebook (code + observations)
 - MLflow experiment screenshots (minimum 2 runs per task)
+- PDF export of notebook with analysis and observations
 
 ---
