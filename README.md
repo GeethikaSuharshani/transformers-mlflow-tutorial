@@ -58,11 +58,20 @@ For each task:
 transformers-mlflow-nlp/
 │
 ├── notebook/
-│   └── transformers_mlflow.ipynb
+│   ├── transformers_mlflow.ipynb
+│   ├── transformers_mlflow.pdf
 │
 ├── Task_1_Sentiment_Analysis/
+│   ├── run_1_baseline/
+│   ├── run_2_sarcasm/
+│
 ├── Task_2_NER/
+│   ├── run_1_easy_text/
+│   ├── run_2_complex_text/
+│
 ├── Task_3_Text_Generation/
+│   ├── run_1_low_temp/
+│   ├── run_2_high_temp/
 │
 └── README.md
 ```
