@@ -1,0 +1,2 @@
+Run 1 uses a lower temperature (0.7), resulting in more coherent and focused text generation.
+The outputs are generally consistent but less creative and more repetitive.

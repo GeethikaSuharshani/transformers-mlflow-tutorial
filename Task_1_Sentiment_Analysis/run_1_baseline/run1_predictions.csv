@@ -1,0 +1,21 @@
+text,true_label,predicted_label
+"I love this product, it's amazing!",POSITIVE,POSITIVE
+This is the worst experience ever.,NEGATIVE,NEGATIVE
+Absolutely fantastic work!,POSITIVE,POSITIVE
+I hate this so much.,NEGATIVE,NEGATIVE
+Very good and satisfying.,POSITIVE,POSITIVE
+Terrible service and bad quality.,NEGATIVE,NEGATIVE
+I am extremely happy with this.,POSITIVE,POSITIVE
+This made me very disappointed.,NEGATIVE,NEGATIVE
+What a great experience!,POSITIVE,POSITIVE
+I will never buy this again.,NEGATIVE,NEGATIVE
+Highly recommended!,POSITIVE,POSITIVE
+Not worth the money.,NEGATIVE,NEGATIVE
+I feel so good about this.,POSITIVE,POSITIVE
+It completely failed my expectations.,NEGATIVE,NEGATIVE
+Brilliant and well executed.,POSITIVE,POSITIVE
+Worst purchase I have made.,NEGATIVE,NEGATIVE
+I am impressed with the results.,POSITIVE,POSITIVE
+This is frustrating and useless.,NEGATIVE,NEGATIVE
+Excellent quality and service.,POSITIVE,POSITIVE
+Very bad and disappointing.,NEGATIVE,NEGATIVE

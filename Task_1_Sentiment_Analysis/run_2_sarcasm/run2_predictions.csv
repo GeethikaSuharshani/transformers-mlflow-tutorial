@@ -1,0 +1,21 @@
+text,true_label,predicted_label
+"Oh great, another perfect day ruined.",NEGATIVE,NEGATIVE
+"Wow, I just love waiting for hours.",NEGATIVE,POSITIVE
+"Yeah right, this is totally amazing...",NEGATIVE,POSITIVE
+Best purchase ever... said no one.,NEGATIVE,POSITIVE
+I absolutely enjoyed wasting my money.,NEGATIVE,POSITIVE
+"Fantastic, it broke after one day.",NEGATIVE,POSITIVE
+"Sure, because this is exactly what I wanted.",NEGATIVE,POSITIVE
+I am so happy this failed again.,NEGATIVE,NEGATIVE
+"Totally brilliant, I can't even use it.",NEGATIVE,POSITIVE
+"Oh wow, such incredible disappointment.",NEGATIVE,NEGATIVE
+This is actually quite good.,POSITIVE,POSITIVE
+I really like how this works.,POSITIVE,POSITIVE
+Pretty decent overall experience.,POSITIVE,POSITIVE
+"Not bad, I am satisfied.",POSITIVE,POSITIVE
+This exceeded my expectations.,POSITIVE,POSITIVE
+I am pleasantly surprised.,POSITIVE,POSITIVE
+Works better than I thought.,POSITIVE,POSITIVE
+Quite impressive results.,POSITIVE,POSITIVE
+I have no complaints.,POSITIVE,POSITIVE
+Really good quality product.,POSITIVE,POSITIVE

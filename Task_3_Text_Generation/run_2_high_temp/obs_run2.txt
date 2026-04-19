@@ -1,0 +1,2 @@
+Run 2 uses a higher temperature (1.2), leading to more diverse and creative outputs.
+However, the generated text may be less coherent and sometimes grammatically inconsistent.
